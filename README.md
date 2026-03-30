@@ -18,6 +18,3 @@ A robust, automated Localization Quality Assurance (LQA) script engineered to st
 ## 📊 Impact & Results
 * **Time Efficiency:** Reduces manual LQA checks by over 90%. What takes a human hours to verify is completed in under 2 seconds.
 * **Bug Prevention:** Successfully caught 23 injected technical errors in a mock test environment, preventing fatal UI crashes in software localization.
-
-## 🔗 Video Demonstration
-[Insert Your YouTube/Google Drive Video Link Here]
